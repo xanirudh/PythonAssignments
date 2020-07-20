@@ -1,0 +1,17 @@
+Q1. What is python? What are the ways to install python in your PC?
+
+    Python is high-level, general purpose programmimg language released in 1991.
+    We can install python binaries from official python website or from third-party navigators like Anaconda.
+    
+=================================================================================================================
+
+Q2. What are code environments? Types?
+
+    Code environments are different programs using which we can write code of some specific progammimg language.
+    Its of three types:
+    1. Text Editors
+    2. Full IDEs
+    3. Notebook environments
+
+====================================================================================================================
+
